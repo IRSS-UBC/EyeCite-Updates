@@ -1,0 +1,12 @@
+{
+  "format": "eyecite-patch-feed",
+  "version": 1,
+  "patches": [
+    {
+      "seq": 1,
+      "file": "patch-0001.patch",
+      "sha256": "8d47952dd464dc8b36b8761752891d6e511f41e9aa00b729f0705ac8eecb0f75",
+      "createdAt": "2026-10-07T00:16:59.4526747\u002B00:00"
+    }
+  ]
+}
