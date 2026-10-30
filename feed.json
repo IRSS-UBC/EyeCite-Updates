@@ -25,6 +25,12 @@
       "file": "patch-0004.patch",
       "sha256": "ccd71a14036465421a7566ea252c8ed5a78463a534c40d516c7a6c49bbf26dd7",
       "createdAt": "2026-10-30T18:36:25.6174934\u002B00:00"
+    },
+    {
+      "seq": 5,
+      "file": "patch-0005.patch",
+      "sha256": "f159bb462d5ea21f848bf348bda891b13ec00a5bf156894b6036fde90a6f391d",
+      "createdAt": "2026-10-30T19:32:09.2549391\u002B00:00"
     }
   ]
 }
